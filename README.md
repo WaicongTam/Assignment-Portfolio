@@ -14,4 +14,6 @@ This unit is about processing data using Apache Spark and the basics of differen
 The first assignment is about wrangling and explanatory analysis on data, it is composed of two parts. <br>
 Part A is about analysis of the words in two books. I discovered the numeric distribution and compare the top words of the two books.<br>
 Part B is about the analysis of the crime records in the state of South Australia. Data wrangling and visualisation techniques are implememnted in this part. I analysed crimes in different suburbs, in different years and in other aspects.
+#### Assignment 2
+This assignment is about applying classification machine learning algorithms on weather data to make prediction. At the last part of the assignment, I tried out different methods to improve the accuracy of the model including parameter tuning, feature scaling, using a larger training set and using more feature. I made a amateur analysis on those methods. Overall this is a very fun and interesting project.
 ## Hope you enjoy it!
